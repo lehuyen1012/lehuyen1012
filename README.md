@@ -1,9 +1,39 @@
-# 💫 About Me:
-👋 Hi there! I’m Huyền, you can call me Dofy, a passionate developer currently studying at Saigon University.<br><br>💓 I love creating seamless mobile experiences that prioritize user engagement and functionality. Therefore, I focus on being a mobile app developer specializing in React Native, designing mobile interfaces that enhance user experience using tools like Figma to bring ideas to life.<br><br>🎊 In my spare time, I’m working on various projects to enhance my skills in mobile app development and design.<br><br> 🙆‍♀️ Here you will find a few small projects I've completed throughout my learning journey. If you like my projects, feel free to give me a star ⭐ on the repository! Thank you 💗
+# Hi, I'm Huyen 👋
 
+Welcome to my little corner of GitHub!  
+I'm a Frontend Developer Intern at [Ainosha](https://ainosha.com) – a fintech startup that made Top 3 at Super Vietnam PitchFest 2025 🚀
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhhuyen101203) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huyene.10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lê-huyền-93bba6221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thanhhuyen1012) 
+---
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### About Me
+
+- 🧑‍💻 Love building clean, responsive UIs with **React**, **TailwindCSS**, **Next.js**, and **TypeScript**.
+- 🏦 At Ainosha, I'm crafting dashboards, hooking up APIs, and making auto-generated reports and token analytics come to life.
+- 🎨 Team player: I work closely with designers via **Figma** to bring ideas from wireframe to pixel-perfect UI.
+- 🤖 Sometimes I tinker with AI automation (think **OpenAI API**, **n8n** workflows).
+
+I keep things simple and fun—learning by doing, and always chasing that "aha!" moment.
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF652A?style=flat&logo=n8n&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehuyen1012&show_icons=true&theme=tokyonight&count_private=false&hide_border=true" alt="Lehuyen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuyen1012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+If you enjoy my work, please consider giving a ⭐ – it means a lot!
+
+---
