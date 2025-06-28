@@ -1,7 +1,7 @@
 # Hi, I'm Huyen 👋
 
 Welcome to my little corner of GitHub!  
-I'm a Frontend Developer Intern at [Ainosha](https://ainosha.com) – a fintech startup that made Top 3 at Super Vietnam PitchFest 2025 🚀
+I'm a Frontend Developer Intern at [Ainosha](https://ainosha.com) - a fintech startup that made Top 3 at Super Vietnam PitchFest 2025 🚀
 
 ---
 
@@ -12,7 +12,7 @@ I'm a Frontend Developer Intern at [Ainosha](https://ainosha.com) – a fintech 
 - 🎨 Team player: I work closely with designers via **Figma** to bring ideas from wireframe to pixel-perfect UI.
 - 🤖 Sometimes I tinker with AI automation (think **OpenAI API**, **n8n** workflows).
 
-I keep things simple and fun—learning by doing, and always chasing that "aha!" moment.
+I keep things simple and fun-learning by doing, and always chasing that "aha!" moment.
 
 ---
 
@@ -34,6 +34,6 @@ I keep things simple and fun—learning by doing, and always chasing that "aha!"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehuyen1012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-If you enjoy my work, please consider giving a ⭐ – it means a lot!
+If you enjoy my work, please consider giving a ⭐ - it means a lot!
 
 ---
